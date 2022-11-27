@@ -1,0 +1,15 @@
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.AssemblyInfo.cs
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\bin\Debug\net6.0\13_DevTeams.exe
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\bin\Debug\net6.0\13_DevTeams.deps.json
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\bin\Debug\net6.0\13_DevTeams.runtimeconfig.json
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\bin\Debug\net6.0\13_DevTeams.dll
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\bin\Debug\net6.0\13_DevTeams.pdb
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.dll
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\refint\13_DevTeams.dll
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.pdb
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\13_DevTeams.genruntimeconfig.cache
+C:\Users\owner\Desktop\efa\ElevenFiftyProjects\csharpBasics\13_DevTeams\obj\Debug\net6.0\ref\13_DevTeams.dll
